@@ -1,8 +1,16 @@
 # 📉 Telecom Customer Churn Prediction
 
-Machine Learning project focused on predicting customer churn in the telecommunications industry using classification models, hyperparameter optimization, and business-oriented model interpretation.
-
+Machine Learning portfolio project that predicts customer churn in the telecommunications industry using classification models, hyperparameter optimization, and business-oriented insights.
 ---
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-F7931E?logo=scikitlearn)
+![XGBoost](https://img.shields.io/badge/XGBoost-Gradient%20Boosting-EC6B23)
+![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?logo=git)
+![License: MIT](https://img.shields.io/badge/License-MIT-green)
+
+Python | Scikit-Learn | XGBoost | Git | License MIT
+
 
 # 📖 Project Overview
 
@@ -110,12 +118,26 @@ The best-performing models were optimized using **GridSearchCV** with **5-fold C
 
 # 🛠️ Technologies Used
 
+### Programming & Data Analysis
+
 - Python
 - Pandas
 - NumPy
-- Matplotlib
+
+### Machine Learning
+
 - Scikit-learn
 - XGBoost
+- Pipeline
+- ColumnTransformer
+- GridSearchCV
+
+### Data Visualization
+
+- Matplotlib
+
+### Version Control
+
 - Git
 - GitHub
 
@@ -199,7 +221,7 @@ Possible future enhancements include:
 
 **Isabelo Castillo Sánchez**
 
-Machine Learning Portfolio Project
+Data Analytics & Machine Learning Portfolio
 
 
 
